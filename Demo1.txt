@@ -1,3 +1,7 @@
 <p> Branch</p>
 <h1> Master edit main</h1>
+<<<<<<< HEAD
 <h2> Feature </h2>
+=======
+<h2> Feature </h2>
+>>>>>>> 9a664f1726af0405e89da9f09aff5acf4270a73d
